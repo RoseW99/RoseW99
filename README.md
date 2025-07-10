@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## My Skillset
+
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0b52c30a-4e4a-4c2a-b31d-122b41c6f8fe" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e000af30-b68c-4458-a97b-1dddef8837d8" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/04089e70-26cb-41e2-85b0-5e455c43b48f" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9ff53309-7934-40ed-9381-3a74bf227d9a" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bd559d77-a54d-43a1-8c40-fe9b1ded3243" />
+<img width="100" height="100" alt="toppng com-mysql-simplified-dolphin-logo-png-1280x1280" src="https://github.com/user-attachments/assets/6e89c108-b533-4786-9798-85e46ab564c5" />
+
+
 <!--
 **RoseW99/RoseW99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
