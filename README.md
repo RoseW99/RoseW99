@@ -1,3 +1,13 @@
+
+<p align="center">
+  <img width="800" height="220" src="https://github.com/user-attachments/assets/a8c4bfb4-7ebf-4c2c-9002-4ab8a618065e" alt="Pastel Header Banner"  style="border-radius:10px;">
+</p>
+<h1 align="center">🌸 My Data Journey 🌸</h1>
+
+<p align="center">
+  Exploring Insights Through Storytelling and Subtle Design
+</p>
+
 ## Hi there, I'm Rose, an aspiring Data Analyst 👋
 
 ## My Skillset ~
