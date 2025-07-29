@@ -1,12 +1,11 @@
 
-<p align="center">
-  <img width="800" height="220" src="https://github.com/user-attachments/assets/a8c4bfb4-7ebf-4c2c-9002-4ab8a618065e" alt="Pastel Header Banner"  style="border-radius:10px;">
 </p>
 <h1 align="center">🌸 My Data Journey 🌸</h1>
 
 <p align="center">
-  Exploring Insights Through Storytelling and Subtle Design
+Exploring Insights Through Storytelling and Subtle Design
 </p>
+
 
 ## Hi there, I'm Rose, an aspiring Data Analyst 👋
 
@@ -44,7 +43,8 @@ As part of the **Data Technician Skills Bootcamp** run by **JustIT**, I complete
 
 <!--
 **RoseW99/RoseW99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="center">
+  <img width="800" height="220" src="https://github.com/user-attachments/assets/a8c4bfb4-7ebf-4c2c-9002-4ab8a618065e" alt="Pastel Header Banner"  style="border-radius:10px;">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
